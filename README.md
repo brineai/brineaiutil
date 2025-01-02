@@ -1,7 +1,5 @@
 # BRINE AI - Solana Wallet Assistant
 
-![BRINE AI](public/minecraft-bg.webp)
-
 BRINE AI is a unique Minecraft-themed AI assistant designed specifically for the Solana blockchain ecosystem. Built with Next.js 14, TypeScript, and powered by advanced AI capabilities, BRINE takes the form of Herobrine - Minecraft's legendary character - while providing sophisticated crypto wallet management and interaction features.
 
 ## 🌟 Features
