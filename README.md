@@ -53,6 +53,7 @@ BRINE AI is a unique Minecraft-themed AI assistant designed specifically for the
 git clone https://github.com/your-repo/brine-ai
 cd brine-ai
 npm install
+```
 
 2. **Environment Setup**
 Create a `.env` file with:
